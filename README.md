@@ -37,6 +37,6 @@ To install the app download the `apk` file from the link provided in the email t
 
 # Screenshots
 
-<img src="screenshots/big_endian.jpeg" height="400" width="300" alt="Big Endian Example"/> 
+<img src="screenshots/big_endian.jpeg" height="500" width="300" alt="Big Endian Example"/> 
 
-<img src="screenshots/little_endian.jpeg" height="400" width="300" alt="Little Endian Example"/>
+<img src="screenshots/little_endian.jpeg" height="500" width="300" alt="Little Endian Example"/>
