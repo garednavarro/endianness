@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="error">Hubo un error en el proceso</string>
+    <string name="bigendianText">Big Endian</string>
+    <string name="littleendianText">Little Endian</string>
+    <string name="inputTitle">Enter Decimal Number:</string>
+</resources>
